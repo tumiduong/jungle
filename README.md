@@ -2,6 +2,18 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+### Home Page
+!['home page'](https://raw.githubusercontent.com/tumiduong/jungle/master/docs/home-page.png)
+
+### Registration Page
+!['registration form'](https://raw.githubusercontent.com/tumiduong/jungle/master/docs/registration-form.png)
+
+### Empty Cart
+!['empty cart'](https://raw.githubusercontent.com/tumiduong/jungle/master/docs/empty-cart.png)
+
+### Admin Dashboard
+!['admin dashboard view'](https://raw.githubusercontent.com/tumiduong/jungle/master/docs/admin-dashboard.png)
 
 ## Setup
 
